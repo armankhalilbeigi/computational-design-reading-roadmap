@@ -1,4 +1,4 @@
-# Computational Design & Fabrication: A Sequential Reading Roadmap
+# Computational Design & Fabrication: A Reading Roadmap
 
 ## Roadmap Progression Levels
 
