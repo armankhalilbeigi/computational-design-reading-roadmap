@@ -131,13 +131,14 @@
 
 ### • To access papers:
 
+> _[ Disclaimer: Listed for educational reference only. Users are solely responsible for ensuring that their use of third-party paper access tools complies with local copyright laws and institutional policies. ]_
+
 * Browser Extensions: Unpaywall [link](https://unpaywall.org/products/extension)
 * Browser Extensions: LibKey Nomad [link](https://chromewebstore.google.com/detail/libkey-nomad/lkoeejijapdihgbegpljiehpnlkadljb)
 * Browser Extensions: Open Access Button [link](https://www.open-access-button.org)
 * Paper Panda: [link](https://paperpanda.app)
 * OA.mg: [link](https://oa.mg)
 * DOAJ: [link](https://doaj.org)
-* LibGen
 * Core: [link](https://core.ac.uk)
 * + all the libraries mentioned in Databases & Academic Support / Major Online Academic Libraries
 
