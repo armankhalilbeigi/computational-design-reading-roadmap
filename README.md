@@ -80,7 +80,81 @@
 * **Massachusetts Institute of Technology (2007).** “Circuits and Electronics” (6.002). MIT OpenCourseWare. [course](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) | [lecture 1](https://www.youtube.com/watch?v=AfQxyVuLeCs)
 * **Fab Academy.** _Distributed Digital Fabrication Curriculum & Weekly Modules_. [link](https://fabacademy.org/about/course.html)
 
-## 3. Key Conferences & Journals (Categorized by Domain)
+## 3. Programming Practice for Computational Design
+
+Choose a problem below, read how it has been solved, and implement the algorithm yourself. Start with a small example you can check by hand. For Gift Wrapping, sketch six points and draw their convex hull. Does your code visit the same boundary points in the same order around the hull? Once your implementation works, try a second method and compare the results.
+
+### • Packing, Search, & Geometric Operations
+
+* **Circle Packing**
+* **Rectangle Packing**
+* **Shortest Path Along Mesh Edges** (Dijkstra’s Algorithm)
+* **Polygon Offsets & Straight Skeletons**
+* **Minimum-Area Oriented Bounding Box** (Rotating Calipers)
+* **Minkowski Sum of Two Convex Polygons**
+* **Smallest Enclosing Circle** (Welzl’s Algorithm)
+* **Nearest-Neighbor Search** (k-d Tree)
+* **Polyline Simplification** (Ramer–Douglas–Peucker Algorithm)
+* **Flood Fill on a Grid**
+
+### • Boundaries, Subdivisions, & Spatial Patterns
+
+* **Convex Hull by Gift Wrapping** (Jarvis March)
+* **Alpha Shapes of 2D Point Sets**
+* **Bounded Voronoi Diagrams** (Half-Plane Clipping)
+* **Delaunay Triangulation** (Bowyer–Watson Algorithm)
+* **Lloyd’s Relaxation of Voronoi Cells**
+* **Poisson-Disk Sampling** (Bridson’s Algorithm)
+* **Polygon Triangulation** (Ear Clipping)
+* **Polygon Clipping** (Sutherland–Hodgman Algorithm)
+* **Point-in-Polygon Test** (Ray Crossing)
+* **Visibility Polygon from a Viewpoint** (Isovist)
+
+### • Curves, Contours, & Meshes
+
+* **Bézier Curve Evaluation** (De Casteljau’s Algorithm)
+* **Curve Subdivision** (Chaikin’s Corner-Cutting Algorithm)
+* **Equal-Distance Sampling Along a Polyline**
+* **Marching Squares** (2D Contour Extraction)
+* **Mesh Slicing with a Plane**
+* **Mesh Face Coloring** (Greedy Graph Coloring)
+* **Mesh Boundary Loop Extraction**
+* **Laplacian Mesh Smoothing**
+* **Loop Subdivision of Triangle Meshes**
+
+### • Networks, Fabrication, & Robotics
+
+* **Traveling Salesperson Problem** (Nearest Neighbor & 2-Opt)
+* **Minimum Spanning Tree** (Kruskal’s or Prim’s Algorithm)
+* **Euler Trails & Single-Stroke Drawing** (Hierholzer’s Algorithm)
+* **One-Dimensional Bin Packing** (First-Fit Decreasing)
+* **Grid Pathfinding Around Obstacles** (A* Search)
+* **Two-Link Planar Inverse Kinematics**
+* **Convex Polygon Collision Detection** (Separating Axis Theorem)
+
+### • Coverage, Continuous Paths, & Assembly
+
+* **Art Gallery Problem** (Triangulation & Vertex Three-Coloring)
+* **Hilbert Space-Filling Curve**
+* **Chinese Postman Problem** (Minimum-Length Closed Route Covering Every Edge)
+* **Single-Stroke Coverage Around Obstacles** (Spanning-Tree Coverage)
+* **Shortest Path Around Polygonal Obstacles** (Visibility Graphs)
+* **Minimum-Cost Assignment** (Hungarian Algorithm)
+* **Exact-Cover Tiling** (Algorithm X)
+* **Assembly Sequencing** (Topological Sorting)
+* **Maximum Flow & Minimum Cut** (Edmonds–Karp Algorithm)
+* **Largest Circle Inside a Polygon** (Pole of Inaccessibility)
+
+### • Isosurfaces, Growth, & Pattern Formation
+
+* **Marching Cubes** (3D Isosurface Extraction)
+* **Reaction–Diffusion Patterns on a 2D Grid** (Gray–Scott Model)
+* **Branching with the Space Colonization Algorithm**
+* **Cluster Growth on a Grid** (Eden Model)
+* **Geodesic Dome Subdivision**
+* **Weighted Voronoi Stippling**
+
+## 4. Key Conferences & Journals (Categorized by Domain)
 
 ### • Digital Fabrication & Robotics
 
@@ -142,7 +216,7 @@
 * Core: [link](https://core.ac.uk)
 * + all the libraries mentioned in Databases & Academic Support / Major Online Academic Libraries
 
-## • Academic Integrity
+## 5. Academic Integrity
 
 * UCAL Academic Integrity [link](https://conted.ucalgary.ca/info/integrity.jsp)
 * UCAL Writing Help: Plagiarism [link](https://libguides.ucalgary.ca/c.php?g=676911&p=4779242)
